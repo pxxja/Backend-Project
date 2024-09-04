@@ -11,8 +11,6 @@ export {asyncHandler}
 
 
 
-
-
 //using try catch Method-2
 // const asyncHandler=(fn)=>async (req,res,next)=>{
 //     try {
@@ -25,3 +23,4 @@ export {asyncHandler}
 //     }
 
 // }
+//export {asyncHandler}
